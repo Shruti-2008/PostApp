@@ -1,0 +1,5 @@
+__pycache__
+venv/
+.env
+app/main_01_arrays.py
+app/main_02_sql.py
